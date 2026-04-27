@@ -2,7 +2,7 @@
 - ⭐️ I'm currently learning C#, Go, Odin and Rust
 - 🌊 I'm student
 - 💎 Fun fact: I'M GNOME
-### You can also check out my sister l0vpre arts - https://x.com/l0vpre 💙
+### You can also check out my arts - https://pixiv.me/l0vpre 💙
 <!--
 **l0vpre/l0vpre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
